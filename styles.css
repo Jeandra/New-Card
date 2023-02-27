@@ -34,3 +34,51 @@
     border-radius: 0.8rem;
     opacity: 0.5;
 }
+
+.blog-post_date span {
+    display: block;
+    color: #8e8c8c;
+    font-weight: 600;
+    margin: 0.5rem 0;
+}
+
+.blog-post_title {
+    font-size: 2.5rem;
+    margin: 1.5rem 0 2rem;
+    text-transform: uppercase;
+    color: #4facfe;
+    font-family: fantasy;
+    letter-spacing: 2px;
+}
+
+.blog-post_info p {
+    margin-bottom: 3rem;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.blog-post_cta {
+    display: inline-block;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    padding: 1.5rem 3rem;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-family: fantasy;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 0.8rem;
+}
+
+.blog-post_cta:hover {
+    background-image: linear-gradient(to right, #00f2fe 0%, #4facfe 100%);
+}
+
+
+
+
+
+
+
+
+
+
+
